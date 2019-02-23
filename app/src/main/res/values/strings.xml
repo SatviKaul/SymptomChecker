@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Symptoms</string>
+
+    <string-array name="symptoms">
+        <item>Abdominal pain</item>
+        <item>Blood in stool</item>
+        <item>Chest pain</item>
+        <item>Constipation</item>
+        <item>Cough</item>
+        <item>Diarrhea</item>
+        <item>Difficulty swallowing</item>
+        <item>Dizziness</item>
+        <item>Eye discomfort and redness</item>
+        <item>Eye problems</item>
+        <item>Foot pain or ankle pain</item>
+        <item>Foot swelling or leg swelling</item>
+        <item>Headaches</item>
+        <item>Heart palpitations</item>
+        <item>Hip pain</item>
+        <item>Knee pain</item>
+        <item>Low back pain</item>
+        <item>Nasal congestion</item>
+        <item>Nausea or vomiting</item>
+        <item>Neck pain</item>
+        <item>Numbness or tingling in hands</item>
+        <item>Pelvic pain: Female</item>
+        <item>Pelvic pain: Male</item>
+        <item>Shortness of breath</item>
+        <item>Shoulder pain</item>
+        <item>Sore throat</item>
+        <item>Urinary problems</item>
+        <item>Wheezing</item>
+    </string-array>
+</resources>
