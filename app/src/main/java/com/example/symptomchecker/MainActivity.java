@@ -11,7 +11,7 @@ import android.widget.ListView;
 import android.widget.EditText;
 import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
-    private static final String[] SYMPTOMS = new String[]{"Abdominal pain", "Blood in stool",
+    private static final String[] SYMPTOMS=new String[]{"Abdominal pain", "Blood in stool",
             "Chest pain",
             "Constipation",
             "Cough",
